@@ -1,0 +1,42 @@
+# 🎉 CarlR MGUI is now publicly available
+We now have successfully publicize CarlR MGUI for public and educational use. We hope that this initiative will increase the development progress of this project. Let this be the stepping stone of newer projects to come.
+
+## 📜 License
+> This repository is under MIT License. Please do not remove credits.
+
+## ⁉️ How to setup
+You can easily setup this discord bot using 5 easy steps
+```bash
+# Clone this repository
+$ git clone https://github.com/notcarlrdev/CarlR-MGUI
+
+# Go into the repository
+$ cd CarlR-MGUI
+
+# Rename configuration file
+$ mv edit.config.json config.json
+
+# Add necessary configurations
+$ nano config.json
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ node .
+```
+
+## 🚀 Recent Updates
+* Added minor webbased connection thru database
+* Added user and group publisher
+* Added automatic dump setup cmd
+* Added publisher request id to record all publisher requests
+* Added bot tokenization system
+* Added game and account lookup cmd
+
+## 👋 Appreciation
+Please leave a star to the repository so that we can maintain to upgrade this project.
+
+## 🔗 Links
+Github: https://github.com/notcarlrdev/CarlR-MGUI
+Buy Me A Coffee: https://bmc.link/notcarlrdev
